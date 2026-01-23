@@ -507,4 +507,5 @@ namespace FscanMultiProcessProcessing
             rtbLog.ScrollToCaret();
         }
     }
+
 }
